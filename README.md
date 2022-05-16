@@ -1,4 +1,4 @@
-# NetCoreBlog
+# NetCore 5.0 Technology Blog Project
  
  
 Technologies I use;
